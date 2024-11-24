@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="vector">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+
+    </array>
+</resources>
